@@ -1,0 +1,82 @@
+/* Navbar */
+#mainNav {
+    background-color:
+        rgba(136, 9, 33);
+    font-family: Raleway;
+}
+
+#mainNav .navbar-nav .nav-item.active .nav-link:hover {
+    color:
+        #880921;
+}
+
+/* CV Button */
+
+.btn-primary:hover {
+    background-color:
+        #880921;
+    border-color:
+        #880921;
+}
+
+.btn-primary {
+    background-color:
+        #880921;
+    border-color:
+        #880921;
+}
+
+.cta {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color:
+        rgba(136, 9, 33);
+}
+
+/* Footer */
+.footer {
+    background-color:
+        rgba(136, 9, 33);
+    font-family: 'Bitter', serif;
+}
+
+#color-txt {
+    color:
+        #fff;
+}
+
+/* Contact icons */
+#icones {
+    width: 1020px;
+    height: 60px;
+    text-align: left;
+    font-family: 'Bitter', serif;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    background: none;
+    color: #000;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+#identity {
+    font-size: 1.5em;
+}
+
+#quote {
+    font-size: 0.5em;
+}
+
+#txt {
+    font-family: 'Bitter', serif;
+}
