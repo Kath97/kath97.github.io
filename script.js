@@ -13,3 +13,9 @@ $(function() {
     **/
     $("html, body").animate({scrollTop : 0}, 1500);
 });
+
+$(".down").click(function() {
+    $('html, body').animate({
+        scrollTop: $(page).offset().top
+    }, 1500);
+});
