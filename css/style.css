@@ -10,8 +10,13 @@
         #880921;
 }
 
-/* CV Button */
+/* Style all text w/o <h2> */
+#txt {
+    font-family: 'Bitter', serif;
 
+}
+
+/* CV Button - Section "Portrait"*/
 .btn-primary:hover {
     background-color:
         #880921;
@@ -33,16 +38,41 @@
         rgba(136, 9, 33);
 }
 
+/* Style name - Section "Portrait" */
+#identity {
+    font-size: 1.5em;
+}
+
+/* Style all <h2> */
+#color-txt {
+    color:
+        #fff;
+}
+
+/* Style bloc "Certifications" */
+#transformers {
+    text-transform: lowercase;
+    font-size: 0.8em;
+    float:right;
+    padding-left:15em;
+}
+
+#opquast {
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 7em;
+    margin-right: 10em;
+    opacity: 0.7;
+}
+
 /* Footer */
 .footer {
     background-color:
         rgba(136, 9, 33);
     font-family: 'Bitter', serif;
-}
-
-#color-txt {
-    color:
-        #fff;
 }
 
 /* Contact icons */
@@ -66,16 +96,4 @@
 
 .fa:hover {
     opacity: 0.7;
-}
-
-#identity {
-    font-size: 1.5em;
-}
-
-#quote {
-    font-size: 0.5em;
-}
-
-#txt {
-    font-family: 'Bitter', serif;
 }

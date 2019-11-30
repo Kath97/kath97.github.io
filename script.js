@@ -7,15 +7,15 @@ $(document).ready(function() {
     });
 });
 
-$(function() {
-    /**
-    * Smooth scrolling to the top of page
-    **/
-    $("html, body").animate({scrollTop : 0}, 1500);
-});
+// $(function() {
+//     /**
+//     * Smooth scrolling to the top of page
+//     **/
+//     $("html, body").animate({scrollTop : 0}, 1500);
+// });
 
-$(".down").click(function() {
-    $('html, body').animate({
-        scrollTop: $(page).offset().top
-    }, 1500);
-});
+// $(".down").click(function() {
+//     $('html, body').animate({
+//         scrollTop: $(page).offset().top
+//     }, 1500);
+// });
