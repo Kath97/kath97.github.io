@@ -1,3 +1,4 @@
+/* Timelines XP & Éduc */
 .timeline {
     list-style: none;
     padding: 20px 0 20px;
@@ -144,4 +145,33 @@
   
   .timeline-body > p + p {
     margin-top: 5px;
+  }
+
+  /* Side navbar */
+  #sideNav .navbar-toggler:focus {
+    outline-color: #880921;
+  }
+  
+  .bg-primary {
+    background-color: #880921 !important;
+  }
+  
+  .text-primary {
+    color: #880921;
+  }
+
+  a {
+    color: #880921;
+  }
+  
+  a:hover, a:focus, a:active {
+    color: #880921;
+  }
+  
+  #txt {
+      margin:5px;
+  }
+
+  .padding-left {
+      padding-left:0px;
   }
