@@ -156,8 +156,9 @@
     background-color: #880921 !important;
   }
   
+  /* Name */
   .text-primary {
-    color: #880921;
+    color: #880921 !important;
   }
 
   a {
@@ -165,9 +166,10 @@
   }
   
   a:hover, a:focus, a:active {
-    color: #880921;
+    color: #518809;
   }
   
+  /* Liste des compétences XP */
   #txt {
       margin:5px;
   }
@@ -175,3 +177,9 @@
   .padding-left {
       padding-left:0px;
   }
+
+  /*  */
+  section.resume-section {
+    padding: 5rem !important;
+    /* padding-bottom: 2rem !important; */
+    max-width: 75rem; }
