@@ -89,7 +89,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #fcc200;
+  color: #6cc4f9;
 }
 
 @media (min-width: 992px) {
@@ -100,7 +100,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #fcc200;
+    color: #6cc4f9;
   }
 }
 
@@ -125,7 +125,7 @@ p {
   .intro .intro-text {
     left: 0;
     width: 60%;
-    margin-top: 3rem;
+    margin-top: 6rem;
     position: absolute;
   }
   .intro .intro-text .intro-button {

@@ -6,8 +6,9 @@
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: 
-    #fcc200;
+    /* ancienne color: 
+    #fcc200; */
+    color: #6cc4f9;
 }
 /* Style all text w/o <h2> */
 #txt {
@@ -18,9 +19,9 @@
 /* CV Button - Section "Portrait"*/
 .btn-primary:hover {
     background-color:
-        #fcc200;
+        #6cc4f9;
     border-color:
-        #fcc200;
+        #6cc4f9;
 }
 
 .btn-primary {
@@ -38,9 +39,9 @@
 }
 
 /* Style Section "Portrait" */
-#identity {
+/* #identity {
     font-size: 1.5em;
-}
+} */
 
 /* Style all <h2> */
 #color-txt {
