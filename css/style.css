@@ -6,10 +6,9 @@
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color:
-        #880921;
+    color: 
+    #fcc200;
 }
-
 /* Style all text w/o <h2> */
 #txt {
     font-family: 'Bitter', serif;
@@ -19,9 +18,9 @@
 /* CV Button - Section "Portrait"*/
 .btn-primary:hover {
     background-color:
-        #880921;
+        #fcc200;
     border-color:
-        #880921;
+        #fcc200;
 }
 
 .btn-primary {
