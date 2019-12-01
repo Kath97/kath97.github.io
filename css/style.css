@@ -50,11 +50,17 @@
 }
 
 /* Style bloc "Certifications" */
-#transformers {
+#trans{
+    float:left;
+}
+
+#formers {
     text-transform: lowercase;
     font-size: 0.8em;
     float:right;
-    padding-left:15em;
+    /* padding-left:0.5em;
+     */
+/* padding-left:15em si on retire le float:left de #trans */
 }
 
 #opquast {
@@ -63,8 +69,8 @@
     -webkit-border-radius: 100px;
     max-width: 100%;
     height: auto;
-    margin-top: 7em;
-    margin-right: 10em;
+    margin-top:5em;
+    margin-right:10em;
     opacity: 0.7;
 }
 
