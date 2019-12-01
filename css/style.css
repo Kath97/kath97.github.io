@@ -73,6 +73,19 @@
     opacity: 0.7;
 }
 
+/* Section "Portfolio" */
+
+.peax-book {
+    width: 150px;
+    height: 150px;
+    padding-top:10px;
+}
+
+/* #info {
+    width: 150px;
+    height: 150px;
+    padding-top:10px;
+} */
 /* Footer */
 .footer {
     background-color:
