@@ -8,9 +8,9 @@
 #mainNav .navbar-nav .nav-item.active .nav-link:hover {
     /* ancienne color: 
     #fcc200; */
-    color: #6cc4f9;
+    color: #19b2e6;
 }
-/* Style all text w/o <h2> */
+/* Style all text w/o <h2> - font à changer*/
 #txt {
     font-family: 'Bitter', serif;
 
@@ -19,9 +19,9 @@
 /* CV Button - Section "Portrait"*/
 .btn-primary:hover {
     background-color:
-        #6cc4f9;
+    #19b2e6;
     border-color:
-        #6cc4f9;
+    #19b2e6;
 }
 
 .btn-primary {
@@ -105,6 +105,10 @@
     height: 60px;
     text-align: left;
     font-family: 'Bitter', serif;
+}
+
+#top-arrow{
+    float:right;
 }
 
 /* Style all font awesome icons */
