@@ -193,3 +193,8 @@
       height:auto;
       margin-left:170px;
     }
+
+    /* Compétences */
+    section.resume-section {
+    min-height: 0vh;
+}
