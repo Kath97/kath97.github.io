@@ -122,7 +122,7 @@
   }
   
   .timeline-badge.warning {
-    background-color: #f0ad4e !important;
+    background-color: #fcc200 !important;
   }
   
   .timeline-badge.danger {
@@ -131,6 +131,10 @@
   
   .timeline-badge.info {
     background-color: #5bc0de !important;
+  }
+  
+  .timeline-badge {
+    background-color: #19b2e6 !important;
   }
   
   .timeline-title {
@@ -178,8 +182,14 @@
       padding-left:0px;
   }
 
-  /*  */
+  /* About */
   section.resume-section {
     padding: 5rem !important;
     /* padding-bottom: 2rem !important; */
     max-width: 75rem; }
+
+    #peax {
+      width: 500px;
+      height:auto;
+      margin-left:170px;
+    }
