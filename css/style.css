@@ -37,7 +37,6 @@
     background-color:
         rgba(136, 9, 33);
 }
-
 /* Style Section "Portrait" */
 /* #identity {
     font-size: 1.5em;
@@ -49,24 +48,24 @@
         #fff;
 }
 
-/* Style bloc "Certifications" */
+/* Style bloc "Certifications"
 #trans{
     float:left;
     
-}
+} */
 
-#formers {
+/* #formers {
     text-transform: lowercase;
     font-size: 0.8em;
     float:right;
-    line-height: 65px;
+    line-height: 65px; */
    
     /* padding-left:0.5em;
      */
 /* padding-left:15em si on retire le float:left de #trans */
-}
+/* } */
 
-#opquast {
+/* #opquast {
     border-radius: 100px;
     -moz-border-radius: 100px;
     -webkit-border-radius: 100px;
@@ -75,7 +74,7 @@
     margin-top:5em;
     margin-right:10em;
     opacity:0.8;
-}
+} */
 
 /* Section "Portfolio" */
 
@@ -83,16 +82,10 @@
     width: 20%;
     height: auto;
     padding-top:10px;
-    float:left;
+    float:center;
     
 }
 
-#list {
-    padding-top:30px;
-    padding-left:0px;
-    margin-left:0px;
-    line-height:35px;
-}
 /* Footer */
 .footer {
     background-color:
