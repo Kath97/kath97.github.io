@@ -41,6 +41,9 @@
 /* #identity {
     font-size: 1.5em;
 } */
+#intro-border {
+    padding: 3rem !important;
+}
 
 /* Style all <h2> */
 #color-txt {
