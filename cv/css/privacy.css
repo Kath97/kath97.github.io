@@ -1,0 +1,46 @@
+/* Background */
+body {
+background-color:#a03a4d;
+background-image:url(img/);
+}
+
+#page {
+    width: 1020px;
+    height: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+}
+
+/* Barre de navigation */
+#navbar {
+    height: 80px;
+    background-color: #880921 !important;
+    padding: 20px 40px 4px 30px;
+    overflow: hidden;
+    top: 0;
+    float:center;
+    width: 100%;
+}
+
+#home {
+    color:#19b2e6;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 0.5em;
+}
+
+.title {
+    padding-top: 1em;
+    padding-left:2em;
+}
+
+.txt {
+    width: 50px;
+    margin-left:50px;
+    margin-right:20px;
+    width:1020px;
+    text-align:left;
+    padding-right:20px;
+}
