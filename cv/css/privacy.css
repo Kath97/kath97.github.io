@@ -1,7 +1,7 @@
 /* Background */
 body {
 background-color:#a03a4d;
-background-image:url(img/);
+background-image: url("../img/fruit-3200173_1920.jpg");
 }
 
 #page {
@@ -36,11 +36,9 @@ background-image:url(img/);
     padding-left:2em;
 }
 
-.txt {
-    width: 50px;
+.txt, #page-ml p {
     margin-left:50px;
     margin-right:20px;
-    width:1020px;
     text-align:left;
     padding-right:20px;
 }
