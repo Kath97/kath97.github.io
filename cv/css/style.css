@@ -198,3 +198,16 @@
     section.resume-section {
     min-height: 0vh;
 }
+
+/* columns */
+#three-nuts {
+  display: flex;
+  flex-flow: row wrap;
+  /* padding: 20px; */
+}
+
+/* .col-sm {
+  width: 260px;
+  height: 55px;
+  font-size: 14px;  
+} */
