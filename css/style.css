@@ -56,7 +56,7 @@
 .peax-book {
     width: 20%;
     height: auto;
-    padding-top:10px;
+    padding-top:1rem;
     float:center;
     
 }
@@ -74,7 +74,7 @@
 
 /* Contact icons */
 #icones {
-    height: 90px;
+    height: 6rem;
     text-align: left;
     font-family: 'Bitter', serif;
 }
@@ -85,9 +85,8 @@
 
 /* Style all font awesome icons */
 .fa {
-    padding: 1px;
-    font-size: 20px;
-    width: 80px;
+    font-size: 1rem;
+    width: 5rem;
     text-align: center;
     text-decoration: none;
     background: none;
@@ -100,5 +99,5 @@
 }
 
 #title-txt {
-    font-size: 40px;   
+    font-size: 2.5rem;   
 }
