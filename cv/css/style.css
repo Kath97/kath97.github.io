@@ -188,11 +188,13 @@
     /* padding-bottom: 2rem !important; */
     max-width: 75rem; }
 
+    @media (min-width: 150px) {
     #peax {
-      width: 500px;
+      width: 50%;
       height:auto;
-      margin-left:170px;
+      margin-left:150px;
     }
+  }
 
     /* Compétences */
     section.resume-section {
